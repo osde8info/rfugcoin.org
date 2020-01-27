@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "build": "pwd",
-    "start": "node server.js"
+    "start": "node ."
   },
   "dependencies": {
     "express": "^4.17.1",
