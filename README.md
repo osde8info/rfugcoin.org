@@ -1,0 +1,2 @@
+# rfugcoin.org
+rfugcoin.org
