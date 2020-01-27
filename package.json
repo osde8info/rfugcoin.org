@@ -4,6 +4,7 @@
   "description": "rfugcoin.org",
   "main": "server.js",
   "scripts": {
+    "build": "pwd"
     "start": "node server.js"
   },
   "dependencies": {
