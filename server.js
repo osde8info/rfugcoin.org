@@ -11,4 +11,11 @@ app.get('/', async (_, res) => {
   res.redirect(URL+page)
 })
 
-app.listen(process.env.PORT ? process.env.PORT : 3000)
+
+// if (GLITCH) {
+//   app.listen(process.env.PORT ? process.env.PORT : 3000)
+// }
+
+// if (ZEIT) {
+      module.exports = app
+// }
