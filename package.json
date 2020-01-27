@@ -1,0 +1,27 @@
+{
+  "name": "rfugcoin.org",
+  "version": "0.0.4",
+  "description": "rfugcoin.org",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "axios": "^0.19.1",
+    "node-fs": "^0.1.7"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/mapsaw"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "pug"
+  ]
+}
