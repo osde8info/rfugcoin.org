@@ -15,6 +15,7 @@ app.get('*', async (_, res) => {
   res.redirect(URL+page)
 })
 
+// are we running on GLITCH or ZEIT
 
 if (GLITCHON) {
   app.listen(PORT)
