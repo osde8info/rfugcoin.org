@@ -3,7 +3,7 @@ const ZEITOFF = process.env.ZEITOFF ? 1 : 0
 const PORT = process.env.PORT ? process.env.PORT : 3000
 
 const URL = process.env.URL ? process.env.URL : 'https://www.charitychoice.co.uk/charities/human-rights/refugees?pid='
-const NUMPAGES = process.env.NUMPAGES ? process.env.NUMPAGES : 14
+const NUMPAGES = process.env.NUMPAGES ? process.env.NUMPAGES : 25
 
 const express = require('express')
 
