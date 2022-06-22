@@ -1,5 +1,1 @@
-{
-"version":"0.0.7",
-"name":"zeit-node-express",
-"start": "node ."
-}
+{"version":2,"name":"osde8info-rfugcoin","builds":[{"src":"**/*.js","use":"@now/node"}]}
