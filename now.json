@@ -1,1 +1,0 @@
-{"version":2,"name":"osde8info-rfugcoin","builds":[{"src":"**/*.js","use":"@now/node"}]}
