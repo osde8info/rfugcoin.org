@@ -1,4 +1,3 @@
-
 const GLITCHON = process.env.GLITCHON ? 1 : 0
 const ZEITOFF = process.env.ZEITOFF ? 1 : 0
 const PORT = process.env.PORT ? process.env.PORT : 3000
