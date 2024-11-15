@@ -11,7 +11,7 @@ const app = express()
 
 app.get('/', async (_, res) => {
   console.info(new Date())
-  page = Math.floor(Math.random() * NUMPAGES)
+  var page = Math.floor(Math.random() * NUMPAGES)
   res.redirect(URL+page)
 })
 

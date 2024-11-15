@@ -4,7 +4,7 @@
   "description": "rfugcoin.org",
   "main": "server.js",
   "scripts": {
-    "build": "pwd",
+    "build": "node .",
     "start": "node ."
   },
   "dependencies": {
@@ -13,11 +13,8 @@
     "node-fs": "^0.1.7",
     "pug": "^3.0.1"
   },
-  "engines": {
-    "node": "^12.x"
-  },
   "repository": {
-    "url": "https://glitch.com/edit/#!/mapsaw"
+    "url": "https://github.com/osde8info/rfugcoin.org"
   },
   "license": "MIT",
   "keywords": [
